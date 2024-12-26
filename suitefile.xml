@@ -1,0 +1,17 @@
+<suite name="my suite">
+
+<test name="my test">
+
+ <groups>
+ 
+     <run>
+        <exclude name="vicky"></exclude>
+      </run>
+ 
+  </groups>
+      <classes name="my classes">
+     
+          <class name="GroupExecution.grouphandling"> </class>
+       </classes>
+   </test>
+</suite>

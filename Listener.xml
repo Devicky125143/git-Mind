@@ -1,0 +1,11 @@
+
+<suite name="suiteA">
+   <listeners>
+   <listener class-name="LSTENERS.MyListener"></listener>
+   </listeners>
+   <test name="testA">
+   <classes>
+     <class name="TEST.testmylistener"></class>
+   </classes>
+   </test>
+</suite>

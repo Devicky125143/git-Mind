@@ -1,0 +1,10 @@
+<suite name="suite1" parallel="tests">
+    <test name="test1">
+       <classes>
+        <class name="Multipleclasses.A"></class>
+        <class name="Multipleclasses.B"></class>
+        <class name="Multipleclasses.c"></class>
+        
+       </classes>
+    </test>
+    </suite>
