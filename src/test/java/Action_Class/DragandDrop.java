@@ -42,6 +42,6 @@ public class DragandDrop {
 	 File src1=ts.getScreenshotAs(OutputType.FILE);
 	 File dest1= new File("C:\\Users\\vicky\\OneDrive\\Desktop\\AUTOMATION_SELENIUM\\SuryaBhaiAutomation\\Screenshot\\Drop1.png");
 	 Files.copy(src1, dest1);
-	  System.out.println("test passed");
+	  System.out.println("===Execution successfull===");
 }
 }
